@@ -1,0 +1,10 @@
+{
+  "teachers": [
+    {"id": 1, "name": "Sunita Rao", "subject": "Math", "gap": "Geometry Pedagogy", "cluster": "Cluster-A"},
+    {"id": 2, "name": "Rajesh Kumar", "subject": "English", "gap": "Phonics", "cluster": "Cluster-B"}
+  ],
+  "modules": [
+    {"id": "M1", "title": "Interactive Geometry", "link": "https://youtube.com/link1"},
+    {"id": "M2", "title": "Phonics for Grade 1", "link": "https://youtube.com/link2"}
+  ]
+}
